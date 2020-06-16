@@ -1,4 +1,4 @@
-# first-website
+# Diptanu Ghosh
 This is my very first portfolio website
 
 This website was created from scratch with the use of HTML and CSS.
